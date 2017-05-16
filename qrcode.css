@@ -1,0 +1,16 @@
+.loginPanel .title{
+        display:none;
+
+    }
+    .loginPanel .waiting .info{
+        display:none;
+    }
+    .impowerBox .qrcode{
+        margin-top: 15px;
+        margin-right: 10px;
+        border: 1px solid #E2E2E2;
+    }
+    .impowerBox .qrcode img{
+        width: 235px;
+        height: 235px;
+    }
